@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://telegra.ph/file/4637101da58e21976363b.jpg" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
+<img src="https://telegra.ph/file/b9057b9b3b70deb3fa231.png" alt="AlyaaXzy X BOTCAHï¿½" width="300" />
 
 </p>
 <h1 align="center">AlyaaXzy X BOTCAHX</h1>
@@ -177,8 +177,8 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX)
+ [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX) | [![rizkyrahma](https://github.com/rizkyrahma.png?size=100)](https://github.com/rizkyrahma)
 ----|----
-[AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX)
- Creator | Creator
+[AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX) | [rizkyrahma](https://github.com/rizkyrahma)
+ Creator | Creator | Creator
 
