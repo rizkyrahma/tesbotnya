@@ -178,7 +178,7 @@ conn.logger.level = 'debug'
 ---------
 
  [![AlyaXd](https://github.com/AlyaaXd.png?size=100)](https://github.com/AlyaaXd) | [![BOTCAHX](https://github.com/BOTCAHX.png?size=100)](https://github.com/BOTCAHX) | [![rizkyrahma](https://github.com/rizkyrahma.png?size=100)](https://github.com/rizkyrahma)
-----|----
+----|----|----
 [AlyaXd](https://github.com/AlyaaXd) | [BOTCAHX](https://github.com/BOTCAHX) | [rizkyrahma](https://github.com/rizkyrahma)
  Creator | Creator | Creator
 
