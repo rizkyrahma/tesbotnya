@@ -21,7 +21,7 @@ let name4 = 'TioXzy'
   let njid4 = number4 + '@s.whatsapp.net'
   let onW4 = await this.isOnWhatsApp(njid4) || { isBusiness: false }
 
-  m.reply(`Nomer owner itu *bukan bot*, tapi nomor _*pemilik bot*_\n\nSilahan chat jika ada keperluan.\nChat "P" atau minta save kemungkinan tidak akan di balas, dan -9999 social credit.`)
+  m.reply(`Itu owner ku kak mau nanya soal apa Yaa..`)
   this.sendMessage(m.chat, {
     contacts: [{
       displayname: name, vcard: `
