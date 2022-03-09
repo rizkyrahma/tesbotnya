@@ -203,9 +203,9 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 			return conn.relayWAMessage(conn.prepareMessageFromContent(m.chat, {
                     "listMessage":  {
                         "title": `*${ucapan()}, ${name}*`.trim(),
-                        "description": `© *R-Txzy*`.trim(),
-                        "footerText": "Jika menemukan bug, error atau kesulitan dalam penggunaan silahkan laporkan/tanyakan kepada owner.",
-                        "buttonText": "*Click Here*",
+                        "description": `© *AlamBotz*`.trim(),
+                        "footerText": "Hai kak >//<",
+                        "buttonText": "*MENU DISINI*",
                         "listType": "SINGLE_SELECT",
                         "sections": [
                             {
@@ -349,7 +349,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
                             }, {
                                 "rows": [{
                                     "title": "Owner bot",
-                                    "description": "pemilik R-Txzy",
+                                    "description": "pemilik AlamBotz",
                                     "rowId": ".owner"
                                 }, {
                                     "title": "Donasi",
