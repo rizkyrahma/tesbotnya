@@ -20,7 +20,7 @@ let handler = async (m, { conn, args, usedPrefix, command }) => {
       auth = true
     }
     conn.on('qr', async qr => {
-      let scan = await parent.sendFile(m.chat, await qrcode.toDataURL(qr, { scale: 8 }), 'qrcode.png', 'Scan QR ini untuk jadi bot sementara\n\n1. Klik titik tiga di pojok kanan atas\n2. Ketuk Perangkat Tertaut\n3. Scan QR ini \nQR Expired dalam 20 detik\n4. Jangan lupa Donasi Dana 082221792667', m)
+      let scan = await parent.sendFile(m.chat, await qrcode.toDataURL(qr, { scale: 8 }), 'qrcode.png', 'Scan QR ini untuk jadi bot sementara\n\n1. Klik titik tiga di pojok kanan atas\n2. Ketuk Perangkat Tertaut\n3. Scan QR ini \nQR Expired dalam 20 detik\n4. Jangan lupa Donasi Dana 085888083107', m)
       setTimeout(() => {
         parent.deleteMessage(m.chat, scan.key)
       }, 30000)
